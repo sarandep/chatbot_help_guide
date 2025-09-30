@@ -1,0 +1,174 @@
+SOP Title: Placing order on HOB Website 
+Date: 27-11-2024
+QA: Dipika Bhatnagar 
+Purpose: This SOP ensures step by step guide to place order on the website. 
+
+1. Login
+
+* Login to website using valid mobile number 
+* User will get one time password on the registered mobile number 
+* Validate the otp 
+
+
+
+2. Browse 
+
+* Browse the website 
+* User can select specific category & sub-category
+* User can scroll the page to see whole collection 
+* User can select one product to add to cart
+* User can use filter and sort to get faster result
+
+
+3. Add to cart 
+
+* Click on a product to open product page
+* Open size chart and select the size 
+* Click on add to cart 
+* User can click on 'estimate delivery' to check estimate delivery date by entering pin code of delivery location
+
+
+4. Shopping bag
+
+* Click on 'shopping bag' to see cart 
+* Click on 'select/add address' to add delivery location
+* Add address by filling all the fields
+* Click on check box 'use as shipping address'
+* Click on 'bin' button to remove product from the shopping bag 
+
+5. Place order 
+
+* Click on place order
+* Choose the payment mode
+* Order placed 
+* Click on order detail to view order 
+
+6. Track order
+* User can see order tracking in 'order detail'
+
+
+.........................................................................................................................................
+ADMIN PANEL SOP 
+: - DASHBOARD 
+Steps to Filter and Get Analysis:
+1. Click on the Calendar:
+o Locate and click on the calendar icon to open the date selection tool.
+2. Pick a Date Range:
+o Select a date range between the past month and the current month. This can usually be done by choosing the start and end date within the calendar.
+3. Select Warehouse Code:
+o After setting the date range, choose the specific warehouse code from the dropdown or selection field.
+4. Click on Filter:
+o Once you've set the date range and warehouse code, click on the "Filter" button to apply the selected filters.
+5. Get Analysis:
+o After applying the filter, the system will display an analysis based on the filtered date range and selected warehouse code.
+This process will allow you to generate insights or reports related to orders within the specified time frame and warehouse.
+: - USER SETUP
+Steps to Filter Staff Information:
+1. Name Filter:
+o Select or enter the staff member's name in the corresponding field to search for a particular individual by their name.
+2. Mobile Number Filter:
+o Use the "Mobile Number" filter to search for a staff member by their specific mobile number.
+3. Authorization Filter:
+o Use the "Authorization" filter to search for staff members based on their role or permissions (e.g., admin, manager, or staff).
+4. Status Filter:
+o Apply the "Status" filter to search for staff members based on their current status (e.g., active, inactive, on leave).
+5. Apply Filters:
+o After entering the necessary details in the relevant filters (name, mobile number, authorization, status), click on the "Filter" or "Search" button to apply the filters.
+6. View Results:
+o The filtered list will display the specific staff members that match the criteria you've entered.
+Summary of Filters:
+* Name
+* Mobile Number
+* Authorization (e.g., role/permissions)
+* Status (e.g., active, inactive)
+By applying these filters, you'll be able to find specific staff members based on the criteria you choose.
+: - CREATE USER 
+Steps to Add Staff Member:
+1. Click on 'Add Staff' Button:
+o Locate and click on the "Add Staff" button, typically found in the staff management section.
+2. Fill in Staff Details:
+o Mobile Number: Enter the staff member's mobile number.
+o Name: Enter the full name of the staff member.
+o Email: Provide the email address of the staff member.
+o Warehouse: Select the warehouse associated with the staff member (if applicable).
+o Employee ID: Enter the employee ID for the staff member.
+o Select Authorization: Choose the role/authorization level (e.g., admin, manager, or regular staff).
+3. Activate the Staff:
+o To activate the staff member and grant them access to the admin panel, click on 'Active' to enable the user.
+4. Click on 'Confirm' to Create the Staff Member:
+o After filling in all the necessary information and selecting the appropriate authorization, click "Confirm" to create and save the staff member in the system.
+5. Click on 'Cancel' to Cancel the Submission:
+o If you decide not to add the staff member, click on "Cancel" to exit the form without saving any changes.
+
+Summary of Steps:
+* Add Staff ? Enter mobile number, name, email, warehouse, employee ID, and authorization.
+* Activate by checking 'Active'.
+* Confirm to save the new staff member or cancel to discard.
+This process will add the new staff member to your system and grant them the specified permissions. 
+: - ORDERS
+Filters and Search Options:
+1. Multifilters:
+o Click on "Multifilters" to enter various details like order date, mobile number, and more, to search for specific orders.
+2. Order Date:
+o Click on "Order Date" to select a date range from a calendar.
+o Press "Filter" to sort and display orders placed within the selected date range.
+3. Delivery Date:
+o Click on "Delivery Date" to select a range of delivery dates.
+4. Mobile Number:
+o Click on "Mobile Number" to filter and search for orders associated with a specific mobile number.
+5. RTO Filter:
+o Click on "RTO Filter" to search for orders where an invoice and payment slip have been generated.
+6. Order ID:
+o Click on "Order ID" to search for a specific order by entering its unique order ID.
+7. Payment Mode:
+o Click on "Payment Mode" to filter orders by their payment method (e.g., cash, credit, debit, etc.).
+8. Picker Name:
+o Click on "Picker Name" to search for orders picked by a particular picker.
+9. Warehouse:
+o Click on "Warehouse" to select one or more specific warehouses from which you want to search for orders.
+10. Filter:
+o After applying the selected filters, click on "Filter" to view the results with all the applied criteria.
+11. Export:
+o Click on "Export" to download the filtered order details, usually in a spreadsheet or CSV format.
+12. Order Status Filter:
+o Click on "Order Status" to quickly sort and filter the order list based on the status of the orders (e.g., pending, shipped, delivered).
+
+:- Order Management Actions:
+1. View Button:
+o Click on the "View" button to toggle which columns you want to display in the order listing (e.g., order ID, customer name, order status, etc.).
+2. Eye Icon on Order:
+o Click on the "Eye" icon next to an order to view the detailed information for that order.
+3. Shipping Label:
+o Click on "Shipping Label" to download the shipping label for the selected order.
+4. Track:
+o Click on "Track" to open the order tracker and see the current stage of the order's delivery process.
+
+These steps will help you effectively filter, manage, and track orders in your system.
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
