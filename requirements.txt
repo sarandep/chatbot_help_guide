@@ -1,0 +1,6 @@
+uvicorn
+fastapi
+python-decouple
+pymongo
+langchain-openai
+langchain
